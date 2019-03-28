@@ -3,3 +3,4 @@ Full homo
 
 Sí homo
 
+https://es.atlassian.com/git/tutorials/syncing
